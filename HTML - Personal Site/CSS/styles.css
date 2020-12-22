@@ -1,0 +1,13 @@
+body {
+    background-color: #eaf6f6;
+}
+
+hr {
+    /*background-color: white;*/
+    border-style: dotted none none none;
+    border-color: grey;
+    border-width: thick;
+    /*height: 2px;*/
+    width: 10%;
+    /*box-shadow: 1px 1px 2px blue;*/
+}
