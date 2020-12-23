@@ -1,0 +1,30 @@
+h1 {
+    color: red;
+    font-size: 30px;
+}
+
+
+
+.food {
+ width: 100px;
+}
+
+.bad {
+    background-color: red;
+}
+
+.good {
+    background-color: green;
+}
+
+.food-block {
+    display: inline-block;
+    margin: 0;
+    padding: 0;
+    line-height: 0;
+}
+
+img:hover {
+    background-color: rgba(0,0,0,0.3);
+}
+
